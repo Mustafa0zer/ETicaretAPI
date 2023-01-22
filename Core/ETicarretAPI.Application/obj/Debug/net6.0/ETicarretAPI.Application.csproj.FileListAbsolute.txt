@@ -1,0 +1,15 @@
+C:\Users\Mustafa ÖZER\OneDrive\Masaüstü\case\ETicaretAPI\Core\ETicarretAPI.Application\bin\Debug\net6.0\ETicarretAPI.Application.deps.json
+C:\Users\Mustafa ÖZER\OneDrive\Masaüstü\case\ETicaretAPI\Core\ETicarretAPI.Application\bin\Debug\net6.0\ETicarretAPI.Application.dll
+C:\Users\Mustafa ÖZER\OneDrive\Masaüstü\case\ETicaretAPI\Core\ETicarretAPI.Application\bin\Debug\net6.0\ETicarretAPI.Application.pdb
+C:\Users\Mustafa ÖZER\OneDrive\Masaüstü\case\ETicaretAPI\Core\ETicarretAPI.Application\bin\Debug\net6.0\ETicaretAPI.Domain.dll
+C:\Users\Mustafa ÖZER\OneDrive\Masaüstü\case\ETicaretAPI\Core\ETicarretAPI.Application\bin\Debug\net6.0\ETicaretAPI.Domain.pdb
+C:\Users\Mustafa ÖZER\OneDrive\Masaüstü\case\ETicaretAPI\Core\ETicarretAPI.Application\obj\Debug\net6.0\ETicarretAPI.Application.csproj.AssemblyReference.cache
+C:\Users\Mustafa ÖZER\OneDrive\Masaüstü\case\ETicaretAPI\Core\ETicarretAPI.Application\obj\Debug\net6.0\ETicarretAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa ÖZER\OneDrive\Masaüstü\case\ETicaretAPI\Core\ETicarretAPI.Application\obj\Debug\net6.0\ETicarretAPI.Application.AssemblyInfoInputs.cache
+C:\Users\Mustafa ÖZER\OneDrive\Masaüstü\case\ETicaretAPI\Core\ETicarretAPI.Application\obj\Debug\net6.0\ETicarretAPI.Application.AssemblyInfo.cs
+C:\Users\Mustafa ÖZER\OneDrive\Masaüstü\case\ETicaretAPI\Core\ETicarretAPI.Application\obj\Debug\net6.0\ETicarretAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa ÖZER\OneDrive\Masaüstü\case\ETicaretAPI\Core\ETicarretAPI.Application\obj\Debug\net6.0\ETicarretAPI.Application.csproj.CopyComplete
+C:\Users\Mustafa ÖZER\OneDrive\Masaüstü\case\ETicaretAPI\Core\ETicarretAPI.Application\obj\Debug\net6.0\ETicarretAPI.Application.dll
+C:\Users\Mustafa ÖZER\OneDrive\Masaüstü\case\ETicaretAPI\Core\ETicarretAPI.Application\obj\Debug\net6.0\refint\ETicarretAPI.Application.dll
+C:\Users\Mustafa ÖZER\OneDrive\Masaüstü\case\ETicaretAPI\Core\ETicarretAPI.Application\obj\Debug\net6.0\ETicarretAPI.Application.pdb
+C:\Users\Mustafa ÖZER\OneDrive\Masaüstü\case\ETicaretAPI\Core\ETicarretAPI.Application\obj\Debug\net6.0\ref\ETicarretAPI.Application.dll
